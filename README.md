@@ -77,4 +77,5 @@ We welcome contributions! Feel free to submit pull requests or open issues to he
 For questions or feedback, please reach out:
 
 Name: Samar Fathima
+
 Email: sammu1910@gmail.com
